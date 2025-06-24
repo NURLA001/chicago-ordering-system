@@ -238,7 +238,7 @@ export default function AdminPage() {
                   : 'text-gray-500 hover:text-gray-700'
               }`}
             >
-              Меню
+              ноове меню
             </button>
             <button
               onClick={() => setActiveTab('categories')}
